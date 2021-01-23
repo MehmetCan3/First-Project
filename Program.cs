@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace dsföcaidföiş
+namespaces Metotlar
 {
     class Program
     {
